@@ -5,7 +5,7 @@ function GooeyTextDemo() {
   return (
     <div className="h-[200px] flex items-center justify-center">
       <GooeyText
-        texts={["Design", "Engineering", "Is", "Awesome"]}
+        texts={["OUR", "SPACE", "CAPSULE"]}
         morphTime={1}
         cooldownTime={0.25}
         className="font-bold"
